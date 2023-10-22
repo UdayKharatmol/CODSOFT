@@ -4,9 +4,8 @@ Welcome to my internship experience with Codsoft! This README provides an overvi
 
 ## Internship Details
 
-- **Internship Duration:** [Start Date] - [End Date]
-- **Supervisor:** [Supervisor's Name]
-- **Internship Type:** [e.g., Software Development, Data Science, etc.]
+- **Internship Duration:** 25 Oct 2023 - 25 Nov 2023
+- **Internship Type:** Web Development
 
 ## About Me
 
