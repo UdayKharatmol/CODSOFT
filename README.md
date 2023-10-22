@@ -1,6 +1,6 @@
-# Internship with Codsoft
+# Internship with CodSoft
 
-Welcome to my internship experience with Codsoft! This README provides an overview of my internship, what I aim to achieve, and the projects I'll be working on during my time at Codsoft.
+Welcome to my internship experience with Codsoft! This README provides an overview of my internship, what I aim to achieve, and the projects I'll be working on during my time at CodSoft.
 
 ## Internship Details
 
