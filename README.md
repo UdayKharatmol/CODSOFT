@@ -24,8 +24,9 @@ During this internship, I aim to:
 
 I will be involved in the following projects during my internship:
 
-1. **Project 1:** TRIBUTE PAGE
-2. **Project 2:** Job Board
+1. **Project 1:** Landing Page
+2. **Project 2:** Portfolio
+3. **Project 3:** Calculator
 
 I will be updating this README with project-specific details, progress updates, and any other relevant information as I work on each project.
 
